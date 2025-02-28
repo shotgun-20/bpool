@@ -1,3 +1,3 @@
-module github.com/shotgin-20/bpool
+module github.com/shotgun-20/bpool
 
 go 1.22.9
